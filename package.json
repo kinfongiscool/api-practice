@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kinfongiscool/api-practice/issues"
   },
-  "homepage": "https://github.com/kinfongiscool/api-practice#readme"
+  "homepage": "https://github.com/kinfongiscool/api-practice#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
