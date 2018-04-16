@@ -1,0 +1,19 @@
+{
+  "name": "api-practice",
+  "version": "1.0.0",
+  "description": "node.js api to practice swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinfongiscool/api-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinfongiscool/api-practice/issues"
+  },
+  "homepage": "https://github.com/kinfongiscool/api-practice#readme"
+}
