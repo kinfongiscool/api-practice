@@ -4,7 +4,8 @@
   "description": "node.js api to practice swagger",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/kinfongiscool/api-practice/issues"
   },
-  "homepage": "https://github.com/kinfongiscool/api-practice#readme"
+  "homepage": "https://github.com/kinfongiscool/api-practice#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.19"
+  }
 }
